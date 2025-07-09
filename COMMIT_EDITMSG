@@ -1,0 +1,7 @@
+Add the ability to switch the application to Croatian language
+
+Implement i18n using `translations.ts` and update UI components to support locale switching with a Globe icon in `AppHeader.tsx`.
+
+Replit-Commit-Author: Agent
+Replit-Commit-Session-Id: 50b06e43-7c30-4d4d-bef6-42e90800e9f4
+Replit-Commit-Screenshot-Url: https://storage.googleapis.com/screenshot-production-us-central1/461de7c5-6bfd-4f06-8622-4dc435b17add/884c3754-e274-41e6-b875-130ce5c93457.jpg
